@@ -5,7 +5,8 @@ This will edit the Login Banner of the tty consoles to show the IP address given
 
 ##Changes to System
 ###Add Files:
- 1. `boot-prompt.sh` to /etc/init.d/
-
-
+ 1. `boot-prompt.sh` to `/etc/init.d/`
+ 
 ###Edit Files:
+1. `/etc/rc.local` is ammened to run `boot-prompt.sh`
+2. `/etc/issue` copied to `/etc/issue.bak`
