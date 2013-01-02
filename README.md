@@ -5,4 +5,5 @@ This repository will contain scipts and ancillary files for Linux scripts, each 
 
 Development is mainly done in Debian and on Virtual Machines. 
 Scrips will be written Bash mostly.
+Some will be in Ruby and Python as my experience grows.
 
